@@ -7,3 +7,7 @@
 使用单块1080TI显卡，在有两个E5至强CPU服务器上训练了18个小时，实际上应该是fine turn。
 
 网络参数是使用的./cfg/yolo-voc.2.0.cfg。不知道整个玩意与yolov2有啥不一样。
+
+模型太大，暂时存放在百度云。
+
+链接: https://pan.baidu.com/s/1SzM0Rw3lPiKJssj4IePxTg 密码: eaym

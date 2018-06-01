@@ -4,7 +4,8 @@
 
 ## Darknet
 
-1. YOLO V2
+1. [YOLO V2 - VOC](https://github.com/debugCVML/MyModels/tree/master/Darknet/YOLOV2-VOC)
+2. [YOLO V2 - VOC](https://github.com/debugCVML/MyModels/tree/master/Darknet/YOLOV3-VOC)
 
 ## Caffe
 
